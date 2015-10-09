@@ -70,7 +70,7 @@ public class Lock {
          */
         if (sleepAfterStart) {
             try {
-                Thread.sleep(5000);
+                Thread.sleep(2000);
             } catch (final InterruptedException e) {
                 e.printStackTrace();
             }
