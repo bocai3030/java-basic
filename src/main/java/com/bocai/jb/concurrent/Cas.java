@@ -1,4 +1,4 @@
-package com.bocai.jb.cas;
+package com.bocai.jb.concurrent;
 
 import java.util.List;
 import java.util.concurrent.Callable;

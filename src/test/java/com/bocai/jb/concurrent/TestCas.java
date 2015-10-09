@@ -1,7 +1,9 @@
-package com.bocai.jb.cas;
+package com.bocai.jb.concurrent;
 
 import org.junit.Before;
 import org.junit.Test;
+
+import com.bocai.jb.concurrent.Cas;
 
 public class TestCas {
     private Cas cas;
